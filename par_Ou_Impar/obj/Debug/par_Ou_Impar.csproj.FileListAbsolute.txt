@@ -1,0 +1,7 @@
+C:\Users\Joao\Desktop\Projetos Dev\C# Exercicios\area do circulo\par_Ou_Impar\obj\Debug\par_Ou_Impar.csproj.AssemblyReference.cache
+C:\Users\Joao\Desktop\Projetos Dev\C# Exercicios\area do circulo\par_Ou_Impar\obj\Debug\par_Ou_Impar.csproj.CoreCompileInputs.cache
+C:\Users\Joao\Desktop\Projetos Dev\C# Exercicios\area do circulo\par_Ou_Impar\bin\Debug\par_Ou_Impar.exe.config
+C:\Users\Joao\Desktop\Projetos Dev\C# Exercicios\area do circulo\par_Ou_Impar\bin\Debug\par_Ou_Impar.exe
+C:\Users\Joao\Desktop\Projetos Dev\C# Exercicios\area do circulo\par_Ou_Impar\bin\Debug\par_Ou_Impar.pdb
+C:\Users\Joao\Desktop\Projetos Dev\C# Exercicios\area do circulo\par_Ou_Impar\obj\Debug\par_Ou_Impar.exe
+C:\Users\Joao\Desktop\Projetos Dev\C# Exercicios\area do circulo\par_Ou_Impar\obj\Debug\par_Ou_Impar.pdb
